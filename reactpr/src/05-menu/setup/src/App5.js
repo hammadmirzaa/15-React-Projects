@@ -3,8 +3,8 @@ import Menu from './Menu';
 import Categories from './Categories';
 import items from './data';
 
-function App() {
+function App5() {
   return <h2>menu project setup</h2>;
 }
 
-export default App;
+export default App5;
